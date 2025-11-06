@@ -1,7 +1,8 @@
 # DataScienceEcosystem
 This is a Jupyter notebook with the summarized of data science languages, libraries and tools. In any case it is important to mention this is a final assignment of a Coursera course of data science.
 
-Final Assignment Instructions: Create and Share Your Jupyter Notebook
+
+# Final Assignment Instructions: Create and Share Your Jupyter Notebook
 Estimated Time: 30 mins
 
 Objective
